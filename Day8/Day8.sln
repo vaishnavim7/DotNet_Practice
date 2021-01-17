@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonMethodAndLambdas", "AnonMethodAndLambdas\AnonMethodAndLambdas.csproj", "{0394344A-1775-4B55-AC1E-F21A87A90041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaAssignmentDay8", "LambdaAssignmentDay8\LambdaAssignmentDay8.csproj", "{A65CF1A3-EBA0-4528-AB92-3DB306658395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0394344A-1775-4B55-AC1E-F21A87A90041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0394344A-1775-4B55-AC1E-F21A87A90041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0394344A-1775-4B55-AC1E-F21A87A90041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0394344A-1775-4B55-AC1E-F21A87A90041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65CF1A3-EBA0-4528-AB92-3DB306658395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65CF1A3-EBA0-4528-AB92-3DB306658395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65CF1A3-EBA0-4528-AB92-3DB306658395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65CF1A3-EBA0-4528-AB92-3DB306658395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ABEC775-2968-451F-80A8-C6230853A783}
+	EndGlobalSection
+EndGlobal

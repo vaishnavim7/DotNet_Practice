@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\bin\Debug\GenericsDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\bin\Debug\GenericsDemo.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\obj\Debug\GenericsDemo.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\obj\Debug\GenericsDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\GenericsDemo\obj\Debug\GenericsDemo.pdb

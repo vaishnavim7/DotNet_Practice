@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\bin\Debug\CollectionAssignmentDay6.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\bin\Debug\CollectionAssignmentDay6.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\bin\Debug\CollectionAssignmentDay6.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\obj\Debug\CollectionAssignmentDay6.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\obj\Debug\CollectionAssignmentDay6.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\obj\Debug\CollectionAssignmentDay6.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\CollectionAssignmentDay6\obj\Debug\CollectionAssignmentDay6.pdb

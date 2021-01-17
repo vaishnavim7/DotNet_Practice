@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\bin\Debug\Assignmt2_Emp.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\bin\Debug\Assignmt2_Emp.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\bin\Debug\Assignmt2_Emp.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\obj\Debug\Assignmt2_Emp.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\obj\Debug\Assignmt2_Emp.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\obj\Debug\Assignmt2_Emp.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day3\Assignmt2_Emp\obj\Debug\Assignmt2_Emp.pdb

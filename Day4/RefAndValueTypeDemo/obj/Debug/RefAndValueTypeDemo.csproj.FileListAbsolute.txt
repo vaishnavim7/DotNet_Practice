@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\bin\Debug\RefAndValueTypeDemo.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\bin\Debug\RefAndValueTypeDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\bin\Debug\RefAndValueTypeDemo.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\obj\Debug\RefAndValueTypeDemo.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\obj\Debug\RefAndValueTypeDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\obj\Debug\RefAndValueTypeDemo.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day4\RefAndValueTypeDemo\obj\Debug\RefAndValueTypeDemo.csprojAssemblyReference.cache

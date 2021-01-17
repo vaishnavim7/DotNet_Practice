@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DelegatesDemo\obj\Debug\DelegatesDemo.pdb

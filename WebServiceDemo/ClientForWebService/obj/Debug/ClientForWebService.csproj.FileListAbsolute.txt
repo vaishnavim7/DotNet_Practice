@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\bin\Debug\ClientForWebService.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\bin\Debug\ClientForWebService.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\bin\Debug\ClientForWebService.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\obj\Debug\ClientForWebService.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\obj\Debug\ClientForWebService.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\obj\Debug\ClientForWebService.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\WebServiceDemo\ClientForWebService\obj\Debug\ClientForWebService.pdb

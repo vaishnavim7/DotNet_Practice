@@ -1,0 +1,50 @@
+﻿@model ASP_Demo_WebApplication4.Models.Employee
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.empId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.empId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.basic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.basic)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.deptId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.deptId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

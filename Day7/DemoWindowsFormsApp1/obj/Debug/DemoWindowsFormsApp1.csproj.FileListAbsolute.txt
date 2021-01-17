@@ -1,0 +1,10 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\bin\Debug\DemoWindowsFormsApp1.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\bin\Debug\DemoWindowsFormsApp1.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\bin\Debug\DemoWindowsFormsApp1.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.Form1.resources
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.Properties.Resources.resources
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.csproj.GenerateResource.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day7\DemoWindowsFormsApp1\obj\Debug\DemoWindowsFormsApp1.pdb

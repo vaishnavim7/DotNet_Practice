@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\bin\Debug\ValueTypeDemo.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\bin\Debug\ValueTypeDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\bin\Debug\ValueTypeDemo.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\obj\Debug\ValueTypeDemo.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\obj\Debug\ValueTypeDemo.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\obj\Debug\ValueTypeDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day5\ValueTypeDemo\obj\Debug\ValueTypeDemo.pdb

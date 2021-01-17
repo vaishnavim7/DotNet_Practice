@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\bin\Debug\LambdaAssignmentDay8.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\bin\Debug\LambdaAssignmentDay8.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\bin\Debug\LambdaAssignmentDay8.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\obj\Debug\LambdaAssignmentDay8.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\obj\Debug\LambdaAssignmentDay8.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\obj\Debug\LambdaAssignmentDay8.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\LambdaAssignmentDay8\obj\Debug\LambdaAssignmentDay8.pdb

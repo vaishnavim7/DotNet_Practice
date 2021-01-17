@@ -1,0 +1,6 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\GenericsCollectionDemo\obj\Debug\GenericsCollectionDemo.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\GenericsCollectionDemo\bin\Debug\GenericsCollectionDemo.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\GenericsCollectionDemo\bin\Debug\GenericsCollectionDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\GenericsCollectionDemo\bin\Debug\GenericsCollectionDemo.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\GenericsCollectionDemo\obj\Debug\GenericsCollectionDemo.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\GenericsCollectionDemo\obj\Debug\GenericsCollectionDemo.pdb

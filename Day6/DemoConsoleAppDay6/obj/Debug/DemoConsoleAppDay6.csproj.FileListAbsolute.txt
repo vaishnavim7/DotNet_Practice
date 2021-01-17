@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\bin\Debug\DemoConsoleAppDay6.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\bin\Debug\DemoConsoleAppDay6.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\bin\Debug\DemoConsoleAppDay6.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\obj\Debug\DemoConsoleAppDay6.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\obj\Debug\DemoConsoleAppDay6.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\obj\Debug\DemoConsoleAppDay6.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day6\DemoConsoleAppDay6\obj\Debug\DemoConsoleAppDay6.pdb

@@ -1,0 +1,7 @@
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\bin\Debug\AnonMethodAndLambdas.exe.config
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\bin\Debug\AnonMethodAndLambdas.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\bin\Debug\AnonMethodAndLambdas.pdb
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\obj\Debug\AnonMethodAndLambdas.csprojAssemblyReference.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\obj\Debug\AnonMethodAndLambdas.csproj.CoreCompileInputs.cache
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\obj\Debug\AnonMethodAndLambdas.exe
+E:\CDAC Feb 2020\Dot Net Module\Practice\Day8\AnonMethodAndLambdas\obj\Debug\AnonMethodAndLambdas.pdb
